@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rizzter Bunny ($RTBY) - The Ultimate Charisma Coin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .logo {
+            width: 200px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 18px;
+            color: white;
+            background: #ff4500;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .section {
+            margin: 40px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="rizzter-bunny-logo.png" alt="Rizzter Bunny Logo" class="logo">
+        <h1>Rizzter Bunny ($RTBY) - The Ultimate Charisma Coin 🐰😎</h1>
+        <button class="btn">Buy $RTBY Now</button>
+    </div>
+    
+    <div class="container section">
+        <h2>What is $RTBY?</h2>
+        <p>$RTBY is the meme coin that brings ultimate charisma to the blockchain. Inspired by the legendary Rizzter Bunny, this token is all about fun, community, and moon-level gains.</p>
+    </div>
+    
+    <div class="container section">
+        <h2>Tokenomics</h2>
+        <p>💰 Total Supply: 100 Billion $RTBY<br>🔥 Burn Mechanism: 10% of all transactions <br>🚀 Community-Driven & Decentralized</p>
+    </div>
+    
+    <div class="container section">
+        <h2>How to Buy</h2>
+        <p>1️⃣ Create a Solana Wallet (Phantom, Solflare)<br>2️⃣ Buy SOL and transfer to your wallet<br>3️⃣ Swap SOL for $RTBY on Raydium or Jupiter</p>
+    </div>
+    
+    <div class="container section">
+        <h2>Roadmap</h2>
+        <p>✔️ Token Launch<br>✔️ First 10,000 Holders<br>🔜 NFT Collection<br>🔜 CEX Listings</p>
+    </div>
+    
+    <div class="container section">
+        <h2>Join the Community</h2>
+        <p>🐦 Twitter: <a href="#">@RizzterBunny</a> <br>💬 Discord: <a href="#">Join Now</a> <br>📢 Telegram: <a href="#">Join Chat</a></p>
+    </div>
+</body>
+</html>
